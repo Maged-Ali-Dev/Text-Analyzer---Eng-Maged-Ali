@@ -1,0 +1,1 @@
+# Text Analyzer - Eng Maged Ali
